@@ -1,0 +1,4 @@
+[submodule "gityopie/odoo-addons"]
+	path = gityopie/odoo-addons
+	url = git@github.com:gityopie/odoo-addons.git
+	branch = 13.0-dev
