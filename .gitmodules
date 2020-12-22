@@ -2,3 +2,8 @@
 	path = gityopie/odoo-addons
 	url = git@github.com:gityopie/odoo-addons.git
 	branch = 13.0-dev
+
+[submodule "open2bizz/odoo-addons"]
+	path = open2bizz/odoo-addons
+	url = git@github.com:open2bizz/odoo-addons.git
+	branch = 13.0
